@@ -1,0 +1,1 @@
+bool primo (int n);
