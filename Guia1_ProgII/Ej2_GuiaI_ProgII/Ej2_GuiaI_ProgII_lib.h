@@ -1,0 +1,1 @@
+int divisores(int N, int M, int K);
